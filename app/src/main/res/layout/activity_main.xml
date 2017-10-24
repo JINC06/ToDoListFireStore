@@ -24,7 +24,7 @@
 
             <com.rengwuxian.materialedittext.MaterialEditText
                 android:id="@+id/title"
-                android:text="Title"
+                android:hint="Title"
                 android:textSize="30sp"
                 android:inputType="text"
                 android:textColorHint="@android:color/white"
@@ -38,7 +38,7 @@
 
             <com.rengwuxian.materialedittext.MaterialEditText
                 android:id="@+id/description"
-                android:text="Description"
+                android:hint="Description"
                 android:textSize="20sp"
                 android:inputType="textMultiLine"
                 android:textColorHint="@android:color/white"
